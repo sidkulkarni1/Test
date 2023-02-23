@@ -1,0 +1,2 @@
+This is Azure machine
+synching git with github
